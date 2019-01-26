@@ -4,3 +4,5 @@ Green
 Yello
 Blue
 Pink
+White
+Black
